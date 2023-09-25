@@ -12,7 +12,7 @@ class App extends Component {
       searchField: "",
     };
   }
-
+  //Add comments
   componentDidMount() {
     console.log("ComponentDidMount");
     //Normal API
